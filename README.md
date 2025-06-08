@@ -25,24 +25,16 @@ Compatible device or emulator set up for Android/iOS.
 
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Aswinraj040/customizable_fitness_tracker.git
 cd customizable_fitness_tracker
 Get dependencies:
 
-bash
-Copy
-Edit
+
 flutter pub get
 Run the app:
 
 On a connected device/emulator:
 
-bash
-Copy
-Edit
 flutter run
 Or launch from your IDE (VS Code, Android Studio).
 
